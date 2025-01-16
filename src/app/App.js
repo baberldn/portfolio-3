@@ -211,11 +211,12 @@ const App = () => {
 
 
   
-  <div className="flex gap-2 ml-[50px]">
-  <a href="#" className="text-[#3B5999] text-white text-[11px] font-light px-4 py-2 rounded-[5px]">Guides</a>
-  <a href="#" className="text-[#3B5999] text-white text-[11px] font-light px-4 py-2 rounded-[5px]">Terms of Use</a>
-  <a href="#" className="text-[#3B5999] text-white text-[11px] font-light px-4 py-2 rounded-[5px]">Privacy Policy</a>
+<div className="flex gap-2 ml-[50px]">
+  <a href="#" className="text-[#3B5999] text-[11px] font-light px-4 py-2 rounded-[5px]">Guides</a>
+  <a href="#" className="text-[#3B5999] text-[11px] font-light px-4 py-2 rounded-[5px]">Terms of Use</a>
+  <a href="#" className="text-[#3B5999] text-[11px] font-light px-4 py-2 rounded-[5px]">Privacy Policy</a>
 </div>
+
 
 </div>
 

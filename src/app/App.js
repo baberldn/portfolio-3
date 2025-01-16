@@ -165,7 +165,7 @@ const App = () => {
 
 
 
-<div className="absolute bg-[#0ACF83] w-[1000px] h-[408px] mt-[150px] ml-[-15] ">
+<div className="absolute bg-[#0ACF83] w-[1000px] h-[408px] mt-[150px] ml-[-20] ">
   <p className="text-white text-[32px] font-[800] leading-[34px] text-center mt-[100px]">
     If You have any Query or Project ideas feel free to  
   </p>

@@ -165,15 +165,17 @@ const App = () => {
 
 
 
-<div className="absolute bg-[#0ACF83] w-[1000px] h-[408px] mt-[150px] ml-[-20] ">
-  <p className="text-white text-[32px] font-[800] leading-[34px] text-center mt-[100px]">
-    If You have any Query or Project ideas feel free to  
-  </p>
-
-  <button className="mt-[70px] w-[589px] h-[122px] bg-[#FFDD55] text-black text-[36px] font-bold rounded-[47px] flex items-center justify-center ml-[200px]" style={{ boxShadow: "-15px 15px 4.2px 0px #000000" }}>
-  Contact Me
-</button>
+<div className="absolute inset-0 flex justify-center items-center bg-[#0ACF83] w-[1000px] h-[408px] mt-[150px] top-[2500px]">
+  <div className="text-center">
+    <p className="text-white text-[32px] font-[800] leading-[34px] mt-[100px]">
+      If You have any Query or Project ideas feel free to  
+    </p>
+    <button className="mt-[70px] w-[589px] h-[122px] bg-[#FFDD55] text-black text-[36px] font-bold rounded-[47px] flex items-center justify-center ml-[150px]" style={{ boxShadow: "-15px 15px 4.2px 0px #000000" }}>
+      Contact Me
+    </button>
+  </div>
 </div>
+
 
 
 
